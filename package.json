@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Ravikiranmsaraf/Test1/issues"
   },
-  "homepage": "https://github.com/Ravikiranmsaraf/Test1#readme"
+  "homepage": "https://github.com/Ravikiranmsaraf/Test1#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
 }
